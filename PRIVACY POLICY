@@ -1,0 +1,94 @@
+# Privacy Policy for [BOT1]
+
+**Last Updated:** [26 June 25]
+
+## 1. Information We Collect
+
+### 1.1 Automatically Collected Information
+When you use our Discord bot, we may automatically collect:
+- Discord User ID
+- Discord Server/Guild ID
+- Message content when commands are used
+- Timestamps of interactions
+- Channel IDs where commands are executed
+
+### 1.2 Information You Provide
+- Any information you voluntarily provide through bot commands
+- Server configuration settings
+- Custom preferences or settings
+
+## 2. How We Use Your Information
+
+We use the collected information to:
+- Provide and maintain bot functionality
+- Process and respond to your commands
+- Improve bot performance and features
+- Monitor usage patterns for optimization
+- Ensure compliance with Discord's Terms of Service
+
+## 3. Data Storage and Security
+
+### 3.1 Data Storage
+- Data is stored temporarily in memory during active sessions
+- No persistent data storage unless explicitly stated
+- Server configurations may be stored for functionality purposes
+
+### 3.2 Security Measures
+- We implement reasonable security measures to protect your data
+- Access to data is restricted to authorized personnel only
+- Regular security assessments are conducted
+
+## 4. Data Sharing and Disclosure
+
+We do not sell, trade, or share your personal information with third parties, except:
+- When required by law or legal process
+- To protect our rights, property, or safety
+- With your explicit consent
+- With Discord as required for bot functionality
+
+## 5. Data Retention
+
+- Temporary data is deleted when sessions end
+- Configuration data is retained as long as the bot remains in your server
+- You can request data deletion by removing the bot from your server
+
+## 6. Your Rights
+
+You have the right to:
+- Request information about data we collect
+- Request deletion of your data
+- Opt-out of data collection by not using the bot
+- Remove the bot from your server at any time
+
+## 7. Children's Privacy
+
+Our bot is not intended for children under 13. We do not knowingly collect personal information from children under 13. If we become aware of such collection, we will delete the information immediately.
+
+## 8. Third-Party Services
+
+Our bot may interact with:
+- Discord API and services
+- External APIs for enhanced functionality (if applicable)
+
+Please review their respective privacy policies.
+
+## 9. Changes to This Policy
+
+We may update this Privacy Policy periodically. Changes will be posted with an updated "Last Updated" date. Continued use of the bot after changes constitutes acceptance of the new policy.
+
+## 10. Contact Information
+
+For questions about this Privacy Policy, contact us at:
+- Discord: [Your Discord Username]
+- Email: [Your Email] (if applicable)
+
+## 11. Compliance
+
+This bot complies with:
+- Discord's Terms of Service
+- Discord's Developer Policy
+- Applicable data protection laws
+
+---
+
+*This Privacy Policy is effective as of the date listed above and applies to all users of the bot.*
